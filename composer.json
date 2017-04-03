@@ -1,19 +1,19 @@
 {
-    "name": "jsartisan/shopkart-laravel",
-    "description": "Simple Product Search Package for Flipkart",
+    "name": "hemantnarang33/shopkart-api-laravel",
+    "description": "Simple Product Search Package for Flipkart cloned from JSArtisan/shopkart-laravel",
     "license": "MIT",
     "keywords": ["flipkart"],
     "authors": [
         {
-            "name": "Pawan Kumar",
-            "email": "pawan.stardust@gmail.com"
+            "name": "Hemant Narang",
+            "email": "hemantnarang33@gmail.com"
         }
     ],
     "require": {
-        "guzzle/guzzle": "^3.9"
+        "guzzlehttp/guzzle": "^6.2"
     },
     "require-dev": {
-        "phpunit/phpunit": "4.0.*"
+        "phpunit/phpunit": "~5.7"
     },
     "autoload": {
         "psr-4": {
